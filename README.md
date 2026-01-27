@@ -5,11 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/pramit garg" target="blank"><img src="https://img.shields.io/twitter/follow/pramit garg?logo=twitter&style=for-the-badge" alt="pramit garg" /></a> </p>
 
-- 🔭 I’m currently searching a **remote job | clients**
+- 🔭 I’m available to collaborate for **remote job | clients**
 
-- 👯 I’m looking to collaborate on : 
--      📊 Data Analytics: Python (Pandas, NumPy), SQL, Excel, Power BI DAX.
-       � Data Visualization: Power BI, Matplotlib, Seaborn, building dashboards through Power Bi.
+- 👯 My Skills :
+-         Developing End to End Ai systems using langchain, langgraph and deploying on Azure openAI & AWS. 
+-         Creating Ai agents & Agentic Workflows. 
+-      📊 Data Analytics: Python (Pandas, NumPy), SQL, Excel.
        🗃 Natural Language Processing (NLP): NLTK, spaCy, Hugging Face, TextBlob.
       🏗️ MVP Development: Rapid prototyping with a focus on usability
       🔍 Business Insight: Leveraging domain knowledge to frame data-driven strategies.
