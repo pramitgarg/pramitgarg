@@ -8,8 +8,7 @@
 - 🔭 I’m available to collaborate for **remote job | clients**
 
 - 👯 My Skills :
--        Creating End to End AI systems using langchain, langgraph and deploying on Azure openAI & AWS.
-       📊 Data Analytics: Python (Pandas, NumPy), SQL, Excel.
+-        Creating End to End AI production systems using langchain, langgraph and deploying on Azure openAI & AWS.
        🗃 Natural Language Processing (NLP): NLTK, spaCy, Hugging Face, TextBlob.
       🏗️ MVP Development: Rapid prototyping with a focus on usability
       🔍 Business Insight: Leveraging domain knowledge to frame data-driven strategies.
